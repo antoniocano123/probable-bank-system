@@ -23,5 +23,5 @@ Este proyecto consistira en generar un programa dessarrollado en lenguaje c# que
                                 ¶¶¶¶¶¶¶¶¶¶¶¶___________________________¶¶¶¶¶¶¶¶¶¶¶
                                 ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶_______________¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
                                 ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
-> [!IMPORTANTE]
+> [!WARNING]
 > El proyecto es un sistema fictcio ninguna transaccion dentro del proyecto es real
